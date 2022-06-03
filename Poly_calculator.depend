@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1624401216 source:d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 1\poly_calculator\main.cpp
+	<iostream>
+	"Poly.h"
+
+1624400435 d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 1\poly_calculator\poly.h
+	<iostream>
+
+1624401207 source:d:\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 1\poly_calculator\poly-lib.cpp
+	"Poly.h"
+
+1632222473 source:c:\users\vitor pereira\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 1\poly_calculator\main.cpp
+	<iostream>
+	<string>
+	"poly.h"
+
+1632222563 c:\users\vitor pereira\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 1\poly_calculator\poly.h
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+
+1632222926 source:c:\users\vitor pereira\google drive\ufrn eletrica\2p - programação avançada\projeto unidade 1\poly_calculator\poly-lib.cpp
+	"Poly.h"
+
+1632368888 source:h:\my drive\ufrn eletrica\2p - programação avançada\projeto unidade 1\poly_calculator\poly-lib.cpp
+	"Poly.h"
+
+1632369003 h:\my drive\ufrn eletrica\2p - programação avançada\projeto unidade 1\poly_calculator\poly.h
+	<iostream>
+	<fstream>
+	<string>
+	<cmath>
+
+1632368341 source:h:\my drive\ufrn eletrica\2p - programação avançada\projeto unidade 1\poly_calculator\main.cpp
+	<iostream>
+	<string>
+	"poly.h"
+
